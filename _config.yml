@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kundan Kumar"
-  avatar           : "me.jpg"
+  avatar           : "https://github.com/Quantumgame/Kundan/blob/master/images/me.jpg"
   bio              : "PhD student @IISc"
   location         : "Bengaluru, India"
   employer         :
