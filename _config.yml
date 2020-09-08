@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kundan Kumar"
+title                    : "K"
 title_separator          : "-"
-name                     : &name "Kundan Kumar"
+name                     : &name "r"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kundan Kumar"
-  avatar           : "https://github.com/Quantumgame/Kundan/blob/master/images/me.jpg"
-  bio              : "PhD student @IISc"
-  location         : "Bengaluru, India"
+  name             : "K"
+  avatar           : 
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.in/citations?user=PZKYwGEAAAAJ&hl=en"
-  email            : "kundankumar@ieee.org"
-  researchgate     :  "https://www.researchgate.net/profile/Kundan_Kumar30"
+  googlescholar    : 
+  email            : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/kundan153/"
+  linkedin         :  
   orcid            : 
   pinterest        :
   soundcloud       :
